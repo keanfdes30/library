@@ -1,18 +1,18 @@
 App.js structure
 
-Validation and login\
+* Validation and login\
     isbn validator\
     handle login\
     handle register\
-Author functions\
+* Author functions\
     add author\
     change author name\
     dont change author name\
     delete author\
-Page functions\
+* Page functions\
     changes to author display page\
     changes to book display page\
-Book functions\
+* Book functions\
     add book\
     edit book\
     delete book\
