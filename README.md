@@ -23,7 +23,8 @@ Open http://localhost:3001/api/(users/authors) to view backend in the browser.
 
 The page automatically reloads if you make edits.
 
-///////////////////////////////////////////// \
+######################################## 
+
 /library-frontend
 
 ```
