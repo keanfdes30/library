@@ -1,0 +1,64 @@
+{
+  "authors": [
+    {
+      "id": 1,
+      "name": "Charles Dickens",
+      "books": [
+        {
+          "Oliver Twist": [
+            {
+              "ISBN": 123124,
+              "Published": 2014,
+              "Genre": "Fiction"
+            }
+          ]
+        },
+        {
+          "Towers": [
+            {
+              "ISBN": "1312414",
+              "Published": 2004,
+              "Genre": "Doc"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Enid Blyton",
+      "books": [
+        {
+          "Famous Five": [
+            {
+              "ISBN": 234235,
+              "Published": 1994,
+              "Genre": "Thriller"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Kean Fernandes",
+      "books": [
+        {
+          "Loli": [
+            {
+              "ISBN": "1512312",
+              "Published": 2000,
+              "Genre": "Fiction"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "login": [
+    {
+      "username": "kean",
+      "password":"dummy"
+    }
+  ]
+}
